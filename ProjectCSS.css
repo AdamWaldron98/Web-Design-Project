@@ -1,0 +1,83 @@
+/*Written by Adam Waldron(17380553)*/
+
+/*Style for the home page*/
+/*Stylising the headers in an easily readible manner*/
+h1{
+	color: #FFFF00;
+	font-family: "Comic Sans MS", Times, serif;
+	font-size: 60px;
+}
+
+h2{
+	color: #FFFF00;
+	font-family: "Comic Sans MS", Times, serif;
+	font-size: 50px;
+}
+
+/*Styling the web page background*/
+body{
+	background-color: #0000ff;
+}
+
+.para1{
+	color: #FFFF00;
+	font-family: "Comic Sans MS", Times, serif;
+	font-size: 30px;
+	padding: 1px 100px 1px;
+}
+
+.para2{
+	color: #FFFF00;
+	font-family: "Comic Sans MS", Times, serif;
+	font-size: 40px;
+	padding: 0px 1px 1px 270px;
+}
+
+.home{
+	position: absolute;
+	left: 60px;
+	bottom: 110px;
+}
+
+.about{
+	position: absolute;
+	left: 220px;
+	bottom: 110px;
+}
+
+.history{
+	position: absolute;
+	left: 400px;
+	bottom: 110px;
+}
+
+.geog{
+	position: absolute;
+	left: 630px;
+	bottom: 110px;
+}
+
+.math{
+	position: absolute;
+	left: 930px;
+	bottom: 110px;
+}
+.english{
+	position: absolute;
+	left: 1130px;
+	bottom: 110px;
+}
+
+a:link{
+	color: #FFFF00;
+}
+
+a:hover{
+	color: red;
+}
+
+a:visited{
+	color: #FFFF00;
+}
+
+/*Style for the about page*/
